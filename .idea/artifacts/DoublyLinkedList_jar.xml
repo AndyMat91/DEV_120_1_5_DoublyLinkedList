@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DoublyLinkedList:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DoublyLinkedList_jar</output-path>
+    <root id="archive" name="DoublyLinkedList.jar">
+      <element id="module-output" name="DoublyLinkedList" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.1/annotations-24.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
